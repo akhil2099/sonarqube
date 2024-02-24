@@ -3,7 +3,7 @@ def main():
     num1 = float(input("Enter the first number: "))
 
     # Prompt user to enter the second number
-    num2 = float(input("Enter the second number: "))
+    num = float(input("Enter the second number: "))
 
     # Print the two numbers
     print("The first number is:", num1)
